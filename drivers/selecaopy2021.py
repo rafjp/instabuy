@@ -27,7 +27,7 @@ class ProductsPyDev2021(product.Driver):
 
     def load(self):
         """
-        Load products from csv file into queue
+        Load products from csv file into the queue.
         :return: The returned object is an iterator. Each iteration returns a product from the CSV file.
         """
 
